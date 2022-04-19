@@ -1,4 +1,4 @@
-package com.phtlearning.nivesh.Investor.Fragments.Home.Fragments;
+package com.phtlearning.nivesh.Investor.DatabaseHelper;
 
 public class InvestedDB {
     String cname, amount, equity, imageulr;
