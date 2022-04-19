@@ -65,4 +65,7 @@
     <color name="vdgrey">#43444A</color>
     <color name="mutedlavender">#4354C5</color>
 
+    <color name="darkmutedblue">#004BA6</color>
+    <color name="mutedred">#A11516</color>
+
 </resources>

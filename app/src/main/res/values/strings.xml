@@ -149,4 +149,11 @@
     <string name="prog">39</string>
     <string name="noofinv">36</string>
 
+
+    <string name="equity_for_investors">Equity for investors</string>
+    <string name="total_equity_for_investors">Total equity for investors</string>
+    <string name="available_equity_for_investment">Available equity for investment</string>
+    <string name="equity_for_given_amount">Equity for given amount</string>
+
+
 </resources>

@@ -384,7 +384,7 @@
                                 android:layout_height="40dp"
                                 android:background="@drawable/circular_grey_bordersolid"
                                 android:padding="10dp"
-                                android:src="@drawable/ic_dob" />
+                                android:src="@drawable/ic__calendar" />
 
                             <TextView
                                 android:id="@+id/user_dob"
